@@ -58,18 +58,3 @@ This latest sample application relies on the new Android library *Custom Vision 
 
     - __Backward compatibility__: Any newer version of the run-time should be able to handle older model versions.
 
-#### Supported model versions
-
-| Run-time version  | Model version |
-|--:                |--             |
-| Run-time 1.0.0    | Work with model version 1.x |
-|                   | Work with model version 2.x |
-|                   | Not work with model version 3.0 or higher |
-
-#### Supported architectures
-
-ARMv7, x86 
-
-## Resources
-- Link to [TensorFlow documentation](https://www.tensorflow.org/mobile/)
-- Link to [Custom Vision Service Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/home)
