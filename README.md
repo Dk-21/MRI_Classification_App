@@ -1,16 +1,14 @@
-# MRI Classification App
-
-We are team technophiles and participated in hackathon organized by Microsoft Azure. 
-
-Our college name: Pandit Deendayal Energy University(PDEU)
-
-Team Members: Denish Kalariya, Rushabh Thakkar, Divy Patel, and Yug Thakkar.
-
 ---
 services: cognitive-services, custom-vision-MRI Detection(HealthCare Sector), 
 platforms: java, Android, Azure ,Tensorflow
 author: Denish Kalariya, Rushabh Thakkar, Divy Patel, Shubham Vyas, Yug Thakkar
 ---
+
+# MRI Classification App
+
+We are team technophiles and participated in hackathon organized by Microsoft Azure. 
+
+Our college name: Pandit Deendayal Energy University(PDEU)
 
 # Android application for TensorFlow models of MRI to detect exported from Custom Vision Service
 
