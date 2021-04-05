@@ -85,8 +85,13 @@ This latest sample application relies on the new Android library *Custom Vision 
 
 - Divy Patel
 
-[Linkedin](www.linkedin.com/in/divy-patel-7b369118b)
+[Linkedin](https://www.linkedin.com/in/divy-patel-7b369118b)
 [Github](https://github.com/Divy2000)
+
+- Shubham Vyas
+
+[Linkedin](https://www.linkedin.com/in/shubhamvyas7/)
+[Github](https://github.com/Shhubhxm)
 
 - Yug Thakkar
 
