@@ -1,10 +1,10 @@
 ---
-services: cognitive-services, custom-vision
-platforms: java, Android
+services: cognitive-services, custom-vision-MRI Detection(HealthCare Sector), 
+platforms: java, Android, Azure ,Tensorflow
 author: Denish Kalariya, Rushabh Thakkar, Divy Patel, Shubham Vyas, Yug Thakkar
 ---
 
-# Sample Android application for TensorFlow models exported from Custom Vision Service
+# Android application for TensorFlow models of MRI to detect exported from Custom Vision Service
 
 This sample application demonstrates how a [Custom Vision Service](https://www.customvision.ai) exported TensorFlow model is added to a real-time image classification application. 
 
