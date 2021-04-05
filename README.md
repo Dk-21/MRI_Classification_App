@@ -64,9 +64,8 @@ This latest sample application relies on the new Android library *Custom Vision 
 
     - __Backward compatibility__: Any newer version of the run-time should be able to handle older model versions.
 
-> **Video:** [Link to Video](https://youtu.be/bV5bhKFsdYY)
+> **Video:** [Link to Video](https://youtu.be/qAOi3ZJF4eI)
 
-> **APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
 
 
 > **Profiles of team member:** 
