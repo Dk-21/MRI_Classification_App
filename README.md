@@ -1,7 +1,7 @@
 ---
 services: cognitive-services, custom-vision
 platforms: java, Android
-author: aminbagheri, yeohan
+author: Denish Kalariya, Rushabh Thakkar, Divy Patel, Shubham Vyas, Yug Thakkar
 ---
 
 # Sample Android application for TensorFlow models exported from Custom Vision Service
