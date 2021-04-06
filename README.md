@@ -1,6 +1,6 @@
 ---
-services: cognitive-services, custom-vision-MRI Detection(HealthCare Sector), 
-platforms: java, Android, Azure ,Tensorflow
+services: cognitive-services, custom-vision-MRI Detection(HealthCare Sector) 
+platforms: java, Android, Azure, Tensorflow
 author: Denish Kalariya, Rushabh Thakkar, Divy Patel, Shubham Vyas, Yug Thakkar
 ---
 
