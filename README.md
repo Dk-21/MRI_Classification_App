@@ -25,8 +25,8 @@ This sample application demonstrates how a [Custom Vision Service](https://www.c
 
 ### QuickStart
 
-1. Clone the repository and open the project `image_classification` in Android Studio
-2. Build and run the sample on your Android device
+1. Clone the repository and open the folder as a project in Android Studio
+2. Build and run the project on your Android device
 
 
 ### Replacing the sample model with your own classifier 
@@ -35,7 +35,7 @@ The model provided with the sample recognizes some fruits. To replace it with yo
   2. [Create and train](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier) a classifier with the Custom Vision Service on Microsoft Azure Cognitive Services. You must choose a "compact" domain such as **General (compact)** to be able to export your classifier. If you have an existing classifier you want to export instead, convert the domain in "settings" by clicking on the gear icon at the top right. In setting, choose a "compact" model, Save, and Train your project.
 
 
-  3. Export your model by going to the Performance tab. Select an iteration trained with a compact domain, an "Export" button will appear. Click on *Export* then *TensorFlow Lite* then *Export.* Click the *Download* button when it appears. A *.zip* file will download that contains all of these three files:
+  3. We have exported our model by going to the Performance tab. Select an iteration trained with a compact domain, an "Export" button will appear. Click on *Export* then *TensorFlow Lite* then *Export.* Click the *Download* button when it appears. A *.zip* file will download that contains all of these three files:
       - TensorFlow model (`.tflite`)
       - Labels (`.txt`)
       - Export manifest file (`cvexport.manifest`).
