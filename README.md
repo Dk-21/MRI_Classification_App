@@ -31,7 +31,7 @@ This sample application demonstrates how a [Custom Vision Service](https://www.c
 
 ### Replacing the sample model with your own classifier 
 The model provided with the sample recognizes some fruits. To replace it with your own model exported from [Custom Vision Service](https://www.customvision.ai) do the following, and then build and launch the application:
-  1. [Dataset](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
+  1. We have augmented the [Dataset](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection) using "data_aug_rem.py" due to lack of available data, so that the model can be trained to recognize the MRI scans accurately.
   2. [Create and train](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier) a classifier with the Custom Vision Service on Microsoft Azure Cognitive Services. You must choose a "compact" domain such as **General (compact)** to be able to export your classifier. If you have an existing classifier you want to export instead, convert the domain in "settings" by clicking on the gear icon at the top right. In setting, choose a "compact" model, Save, and Train your project.
 
 
