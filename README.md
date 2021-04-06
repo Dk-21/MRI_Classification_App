@@ -46,10 +46,12 @@ The model provided with the sample recognizes some fruits. To replace it with yo
 
 
 > **Video:** [Link to Video](https://youtu.be/qAOi3ZJF4eI)
-<br>
+
 > **APK File:** [APK](https://drive.google.com/file/d/1i_yrnvwuBtYKyZF2XYt-qOdzJUPWusAy/view?usp=sharing)
-<br>
+
+
 **NOTE-** *Gives best accuracy when used with dark background*
+
 > **Profiles of team member:** 
 
 - Denish Kalariya
